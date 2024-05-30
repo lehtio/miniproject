@@ -1,0 +1,224 @@
+{
+  "artikkelit": [
+    {
+      "id": "f6ba",
+      "articleKey": "zayat2021",
+      "author": [
+        {
+          "firstName": "Wael",
+          "lastName": "Zayat"
+        },
+        {
+          "firstName": "Ozlem",
+          "lastName": "Senvar"
+        }
+      ],
+      "title": [
+        "Framework Study for Agile Software Development Via Scrum and Kanban"
+      ],
+      "journal": [
+        "International Journal of Innovation and Technology Management"
+      ],
+      "year": 2020,
+      "volume": "17",
+      "DOI": "10.1142/s0219877020300025"
+    },
+    {
+      "id": "b477",
+      "articleKey": "thesing2021",
+      "author": [
+        {
+          "firstName": "Theo",
+          "lastName": "Thesing"
+        },
+        {
+          "firstName": "Carsten",
+          "lastName": "Feldmann"
+        },
+        {
+          "firstName": "Martin",
+          "lastName": "Burchardt"
+        }
+      ],
+      "title": [
+        "Agile versus Waterfall Project Management: Decision Model for Selecting the Appropriate Approach to a Project"
+      ],
+      "journal": [
+        "Procedia Computer Science"
+      ],
+      "year": 2021,
+      "volume": "181",
+      "pages": "746-756",
+      "DOI": "10.1016/j.procs.2021.01.227"
+    },
+    {
+      "id": "888f",
+      "articleKey": "planningpoker",
+      "author": [
+        {
+          "firstName": "Pantjawati",
+          "lastName": "Sudarmaningtyas"
+        },
+        {
+          "firstName": "Rozlina Binti",
+          "lastName": "Mohamed"
+        }
+      ],
+      "title": [
+        "Extended Planning Poker: A Proposed Model"
+      ],
+      "year": 2020,
+      "booktitle": [
+        "2020 7th International Conference on Information Technology, Computer, and Electrical Engineering (ICITACEE)"
+      ],
+      "DOI": "10.1109/icitacee50144.2020.9239165"
+    },
+    {
+      "id": "cc0c",
+      "articleKey": "nicholas2020",
+      "author": [
+        {
+          "firstName": "John M.",
+          "lastName": "Nicholas"
+        },
+        {
+          "firstName": "Herman",
+          "lastName": "Steyn"
+        }
+      ],
+      "title": [
+        "Project Management for Engineering, Business and Technology"
+      ],
+      "year": 2020,
+      "publisher": "Routledge",
+      "DOI": "10.4324/9780429297588"
+    },
+    {
+      "id": "00f7",
+      "articleKey": "factors",
+      "author": [
+        {
+          "firstName": "Safa Mohammed Ahmed",
+          "lastName": "Suliman"
+        },
+        {
+          "firstName": "Gada",
+          "lastName": "Kadoda"
+        }
+      ],
+      "title": [
+        "Factors that influence software project cost and schedule estimation"
+      ],
+      "year": 2018,
+      "booktitle": [
+        "2017 Sudan Conference on Computer Science and Information Technology (SCCSIT)"
+      ],
+      "DOI": "10.1109/sccsit.2017.8293053"
+    },
+    {
+      "id": "2946",
+      "articleKey": "key0",
+      "author": [
+        {
+          "firstName": "Emilia",
+          "lastName": "Rantonen"
+        },
+        {
+          "firstName": "Minea",
+          "lastName": "Nupponen"
+        }
+      ],
+      "title": "Tutkimus",
+      "journal": "Journal",
+      "year": "2022",
+      "volume": "100",
+      "pages": "22-45"
+    },
+    {
+      "id": "0b39",
+      "articleKey": "effectOfAgile",
+      "author": [
+        {
+          "firstName": "Ashvini R.",
+          "lastName": "Chaudhari"
+        },
+        {
+          "firstName": "Shashank D.",
+          "lastName": "Joshi"
+        }
+      ],
+      "title": [
+        "Study of effect of Agile software development Methodology on Software Development Process"
+      ],
+      "year": 2021,
+      "booktitle": [
+        "2021 Second International Conference on Electronics and Sustainable Communication Systems (ICESC)"
+      ],
+      "DOI": "10.1109/icesc51422.2021.9532842"
+    },
+    {
+      "id": "46ee",
+      "articleKey": "123123",
+      "author": [
+        {
+          "firstName": "J.",
+          "lastName": "Leppäluoto"
+        },
+        {
+          "firstName": "T.",
+          "lastName": "Pääkkönen"
+        },
+        {
+          "firstName": "I.",
+          "lastName": "Korhonen"
+        },
+        {
+          "firstName": "J.",
+          "lastName": "Hassi"
+        }
+      ],
+      "title": [
+        "Pituitary and autonomic responses to cold exposures in man"
+      ],
+      "journal": [
+        "Acta Physiologica Scandinavica"
+      ],
+      "year": 2005,
+      "volume": "184",
+      "pages": "255-264",
+      "DOI": "10.1111/j.1365-201x.2005.01464.x"
+    },
+    {
+      "id": "7806",
+      "articleKey": "123123123",
+      "author": [
+        {
+          "firstName": "J.",
+          "lastName": "Leppäluoto"
+        },
+        {
+          "firstName": "T.",
+          "lastName": "Pääkkönen"
+        },
+        {
+          "firstName": "I.",
+          "lastName": "Korhonen"
+        },
+        {
+          "firstName": "J.",
+          "lastName": "Hassi"
+        }
+      ],
+      "title": [
+        "Pituitary and autonomic responses to cold exposures in man"
+      ],
+      "journal": [
+        "Acta Physiologica Scandinavica"
+      ],
+      "year": 2005,
+      "volume": "184",
+      "pages": "255-264",
+      "DOI": "10.1111/j.1365-201x.2005.01464.x"
+    }
+  ]
+}

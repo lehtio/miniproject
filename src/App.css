@@ -1,0 +1,11 @@
+.artikkelititle, .artikkelijournal {
+    font-style: italic;
+}
+
+.artikkelituloste {
+    display: flex;
+}
+
+.artikkelituloste p {
+    margin: 3px;
+}

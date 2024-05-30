@@ -1,0 +1,14 @@
+{
+  "artikkelit": [
+    {
+      "id": "1",
+      "articleKey": "exampleKey",
+      "author": "Esimerkki Kirjoittaja",
+      "title": "Esimerkki Otsikko",
+      "journal": "Esimerkki Lehti",
+      "year": "2022",
+      "volume": "1",
+      "pages": "1-10"
+    }
+  ]
+}
